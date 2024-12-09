@@ -365,6 +365,7 @@
 "Assets/Scripts/PlayVictoryAnimation.cs"
 "Assets/Scripts/RespawnManager.cs"
 "Assets/Scripts/RespawnManagerLuigi.cs"
+"Assets/Scripts/SettingsMenu.cs"
 "Assets/Scripts/SpinishellBounceSound.cs"
 "Assets/Scripts/SpinishellCollisionSound.cs"
 "Assets/Scripts/SpinishellFallSound.cs"
